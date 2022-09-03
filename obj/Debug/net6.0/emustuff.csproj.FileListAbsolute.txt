@@ -1,0 +1,15 @@
+C:\Users\TJ\Documents\emustuff\bin\Debug\net6.0\emustuff.exe
+C:\Users\TJ\Documents\emustuff\bin\Debug\net6.0\emustuff.deps.json
+C:\Users\TJ\Documents\emustuff\bin\Debug\net6.0\emustuff.runtimeconfig.json
+C:\Users\TJ\Documents\emustuff\bin\Debug\net6.0\emustuff.dll
+C:\Users\TJ\Documents\emustuff\bin\Debug\net6.0\emustuff.pdb
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.csproj.AssemblyReference.cache
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.AssemblyInfoInputs.cache
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.AssemblyInfo.cs
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.dll
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\refint\emustuff.dll
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.pdb
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\emustuff.genruntimeconfig.cache
+C:\Users\TJ\Documents\emustuff\obj\Debug\net6.0\ref\emustuff.dll
